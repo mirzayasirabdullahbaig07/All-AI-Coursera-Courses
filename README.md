@@ -47,7 +47,7 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 - Machine Learning Software  
 - Azure  
 - Applied ML  
-🔗 [View Certificate](#)
+🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/H2THDWPGDGHE)
 
 ---
 
