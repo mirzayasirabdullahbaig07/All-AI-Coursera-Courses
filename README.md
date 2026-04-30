@@ -69,7 +69,7 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 - Calculus  
 - Differential Equations  
 - Linear Algebra  
-🔗 [View Certificate](#)
+🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/786GV1DUXQ6A)
 
 ---
 
