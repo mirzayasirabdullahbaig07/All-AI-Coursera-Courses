@@ -26,6 +26,8 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 #### 🤖 Google Prompting Essentials  
 **Provider:** Google  
 📅 Completed: March 2026  
+<img width="1058" height="812" alt="image" src="https://github.com/user-attachments/assets/7b7d3442-cc0c-41dc-9edb-82c78a0e3526" />
+
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/RUCHUJEM76E8)
 
 ---
