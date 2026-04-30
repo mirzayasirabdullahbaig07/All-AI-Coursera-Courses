@@ -105,9 +105,9 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 
 ## 🙌 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🧠 Kaggle: [Your Kaggle](#)  
-- 💻 GitHub: [Your GitHub](#)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig)  
+- 🧠 Kaggle: [Your Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
+- 💻 GitHub: [Your GitHub](https://github.com/mirzayasirabdullahbaig07/)
 
 ---
 
