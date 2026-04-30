@@ -38,6 +38,8 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 **Provider:** IBM  
 📅 Completed: December 2025  
 📌 Focus: Reinforcement Learning  
+![Uploading image.png…]()
+
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/D6GYJ5VWROH5)
 
 ---
