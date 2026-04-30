@@ -58,7 +58,7 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 - Machine Learning Algorithms  
 - Deep Learning  
 - Applied ML  
-🔗 [View Certificate](#)
+🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/G9A1U80SN4WO)
 
 ---
 
