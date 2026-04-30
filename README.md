@@ -38,7 +38,7 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 **Provider:** IBM  
 📅 Completed: December 2025  
 📌 Focus: Reinforcement Learning  
-![Uploading image.png…]()
+<img width="1058" height="812" alt="image" src="https://github.com/user-attachments/assets/1a28e6ef-d205-4b82-a367-6640a2c4ee08" />
 
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/D6GYJ5VWROH5)
 
@@ -52,6 +52,8 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 - Machine Learning Software  
 - Azure  
 - Applied ML  
+<img width="1058" height="812" alt="image" src="https://github.com/user-attachments/assets/302986d9-4db4-4efc-ac86-de48991c584a" />
+
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/H2THDWPGDGHE)
 
 ---
@@ -62,7 +64,9 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 📌 Topics:
 - Machine Learning Algorithms  
 - Deep Learning  
-- Applied ML  
+- Applied ML
+<img width="1058" height="812" alt="image" src="https://github.com/user-attachments/assets/52fb9d79-fa97-4308-adfe-e35b3c0e424a" />
+  
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/G9A1U80SN4WO)
 
 ---
@@ -74,6 +78,8 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 - Calculus  
 - Differential Equations  
 - Linear Algebra  
+<img width="1058" height="812" alt="image" src="https://github.com/user-attachments/assets/7339a861-b14e-4a05-9a43-f2234d636518" />
+
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/786GV1DUXQ6A)
 
 ---
@@ -85,6 +91,8 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 - Algorithms  
 - Data Structures  
 - Problem Solving  
+![Uploading image.png…]()
+
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/2SXP3OBHLM5I)
 
 ---
