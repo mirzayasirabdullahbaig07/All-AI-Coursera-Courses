@@ -18,6 +18,7 @@ Over the past year, I’ve focused on building a strong foundation in **Machine 
 #### 📊 Google Data Analysis with Python  
 **Provider:** Google  
 📅 Completed: April 2026  
+<img width="1058" height="812" alt="image" src="https://github.com/user-attachments/assets/1caa43f8-58f2-42ca-bb06-8585ccba8bc4" />
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/NYFQ18H7Y0P6)
 
 ---
